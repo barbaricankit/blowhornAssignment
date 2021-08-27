@@ -109,4 +109,9 @@ ul.productivity-list {
     display: flex;
     flex-direction: column;
   }
+  .details1-img,
+  .details2-img {
+    width: 100%;
+    margin: 1rem;
+  }
 }
