@@ -1,4 +1,13 @@
-import { person1, person2, person3, person4, person5, person6 } from '.'
+import {
+  person1,
+  person2,
+  person3,
+  person4,
+  person5,
+  person6,
+  person7,
+  person8,
+} from '.'
 
 export const persons = [
   {
@@ -33,8 +42,20 @@ export const persons = [
   },
   {
     id: '1239',
+    name: 'Tommy Barnes',
+    designation: 'Designer',
+    src: person6,
+  },
+  {
+    id: '1240',
+    name: 'Rachel Jordan',
+    designation: 'Web Developer',
+    src: person7,
+  },
+  {
+    id: '1241',
     name: 'Alexis Jordan',
     designation: 'Affliate Manager',
-    src: person6,
+    src: person8,
   },
 ]
