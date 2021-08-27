@@ -2,6 +2,9 @@
   --purple-color:#4F46E5;
   --gray-color:gray;
   --light-green-color:#6EE7B7;
+  --white-color:white;
+  --light-blue-color:#699ef5;
+  --light-gray-color:rgb(247 247 247);
 }
 .App {
   text-align: center;

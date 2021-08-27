@@ -1,5 +1,5 @@
-import CompanyList from './home/CompanyList'
-import './home/home.css'
+import CompanyList from './CompanyList'
+import './home.css'
 const Home = () => {
   return (
     <div className="home">
