@@ -1,0 +1,27 @@
+.feature{
+
+    background-color: var(--light-gray-color);
+    margin
+    :1rem;
+    width: 15rem;
+    height:6rem;
+    padding:2rem;
+    border-radius: 1rem;
+}
+.features{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+}
+.feature-desc{
+    word-wrap: break-word;
+    color: var(--gray-color);
+    margin-top: 1rem;
+    font-size: small;
+}
+.feature-icon{
+    background-color:var(--light-blue-color);
+    border-radius: 50%;
+    padding: 0.5rem;
+    color: var(--white-color);
+}

@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:1rem 3rem;
+    padding:1rem;
+    border-bottom: 1px solid black;
+}
+
+.nav-option{
+    display: inline-block;
+    margin:auto 0.7rem;
+   
+    font-size: medium;
+}
+
+.btn--purple{
+    background-color: var(--purple-color);
+    padding:0.5rem 1rem;
+    border-radius: 10rem;
+    color:white;
+}
+.text--purple{
+    color:var(--purple-color)
+}
+.text-gray{
+    color:var(--gray-color);
+}
