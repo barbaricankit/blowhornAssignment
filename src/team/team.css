@@ -16,7 +16,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin: auto 8rem;
+  margin: auto 4rem;
 }
 .person {
   margin: 2rem;

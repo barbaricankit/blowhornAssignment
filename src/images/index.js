@@ -1,9 +1,4 @@
 import disney_logo from './disney_logo.png'
-import Google_logo from './Google_logo.png'
-import HubSpot_logo from './HubSpot_logo.png'
-import Shopify_logo from './Shopify_logo.svg'
-import Slack_logo from './Slack_logo.png'
-import YouTube_logo from './YouTube_logo.png'
 import designing from './designing.jpg'
 import gaming from './gaming.jpg'
 import lifestyle from './lifestyle.jpg'
@@ -20,8 +15,15 @@ import person7 from './person7.jpg'
 import person8 from './person8.jpg'
 import highlight1 from './highlight1.png'
 import highlight2 from './highlight2.png'
+import Disney_logo from './Disney+_logo.svg'
+import Google_logo from './Google_2015_logo.svg'
+import Shopify_logo from './Shopify_logo_2018.svg'
+import HubSpot_logo from './HubSpot_Logo.svg'
+import Slack_logo from './Slack_Technologies_Logo.svg'
+import YouTube_logo from './YouTube_logo_2017.svg'
 export {
   disney_logo,
+  Disney_logo,
   Google_logo,
   HubSpot_logo,
   Shopify_logo,

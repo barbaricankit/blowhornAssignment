@@ -37,26 +37,32 @@
 .google-logo {
   width: 6rem;
   height: 2rem;
+  margin: 1rem;
 }
 .disney_logo {
   width: 6rem;
-  height: 3rem;
+  height: 2rem;
+  margin: 1rem;
 }
 .hubspot-logo {
   width: 6.5rem;
-  height: 3.5rem;
+  height: 2rem;
+  margin: 1rem;
 }
 .shopify-logo {
   width: 6rem;
-  height: 3rem;
+  height: 2rem;
+  margin: 1rem;
 }
 .slack-logo {
   width: 7rem;
-  height: 4rem;
+  height: 2rem;
+  margin: 1rem;
 }
 .youtube-logo {
   width: 7rem;
-  height: 4rem;
+  height: 2rem;
+  margin: 1rem;
 }
 .companies {
   display: flex;
@@ -64,6 +70,7 @@
   justify-content: space-around;
   margin-left: 4rem;
   margin-right: 4rem;
+  flex-wrap: wrap;
 }
 .text-bold {
   font-weight: bold;
@@ -114,4 +121,12 @@ ul.productivity-list {
     width: 100%;
     margin: 1rem;
   }
+  /* .companies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 4rem;
+    margin-right: 4rem;
+  } */
 }

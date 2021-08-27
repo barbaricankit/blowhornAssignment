@@ -1,5 +1,5 @@
 import {
-  disney_logo,
+  Disney_logo,
   Google_logo,
   HubSpot_logo,
   Shopify_logo,
@@ -10,7 +10,7 @@ import {
 const CompanyList = () => {
   return (
     <div className="companies">
-      <img src={disney_logo} alt="Disney" className="disney_logo" />
+      <img src={Disney_logo} alt="Disney" className="disney_logo" />
       <img src={Google_logo} alt="Google" className="google-logo" />
       <img src={HubSpot_logo} alt="HubSpot" className="hubspot-logo" />
       <img src={Shopify_logo} alt="Shopify" className="shopify-logo" />

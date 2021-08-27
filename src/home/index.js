@@ -1,5 +1,6 @@
 import {
   disney_logo,
+  Disney_logo,
   Google_logo,
   HubSpot_logo,
   Shopify_logo,
@@ -11,6 +12,7 @@ import {
 
 export {
   disney_logo,
+  Disney_logo,
   Google_logo,
   HubSpot_logo,
   Shopify_logo,
