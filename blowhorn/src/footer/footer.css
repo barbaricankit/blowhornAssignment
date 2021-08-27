@@ -1,0 +1,19 @@
+.footer-links {
+  margin: 1rem;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+.social-link {
+  margin: auto 0.5rem;
+}
+.footer {
+  margin: 2rem;
+}
+.footer-desc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

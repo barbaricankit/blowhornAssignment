@@ -1,10 +1,13 @@
-import BuildingBlocks from './BuildingBlocks'
-import Bundles from './Bundles'
-import Certifications from './Certifications'
-import Coupons from './Coupons'
-import DeveloperTools from './DeveloperTools'
+import {
+  BuildingBlocks,
+  Bundles,
+  Certifications,
+  Coupons,
+  DeveloperTools,
+  Notifications,
+} from '.'
 import './features.css'
-import Notifications from './Notifications'
+
 const Features = () => {
   return (
     <div>

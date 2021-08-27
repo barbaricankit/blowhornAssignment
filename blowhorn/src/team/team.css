@@ -1,0 +1,29 @@
+.avatar {
+  width: 10rem;
+  height: 10rem;
+  background-color: #dae8ff;
+  padding: 1.5rem;
+  border-radius: 50%;
+}
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: var(--light-blue-color);
+}
+.persons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto 8rem;
+}
+.person {
+  margin: 2rem;
+}
+.text--blue {
+  color: var(--light-blue-color);
+}
+.social-link {
+  font-size: larger;
+  color: var(--gray-color);
+}

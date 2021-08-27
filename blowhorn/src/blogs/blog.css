@@ -1,0 +1,147 @@
+.gaming {
+  width: 100%;
+  height: 100%;
+}
+.designing {
+  width: 100%;
+  height: 100%;
+}
+
+.lifestyle {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+.lifestyle-blog-img {
+  height: 18.5rem;
+  width: 16rem;
+}
+.gaming-blog-img {
+  height: 17rem;
+  width: 16rem;
+}
+.designing-blog-img {
+  height: 18rem;
+  width: 16rem;
+}
+.blogs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem;
+}
+.blog {
+  width: 16rem;
+  margin: 1.5rem;
+}
+.lifestyle-blog {
+  margin-top: 0;
+  height: 100%;
+}
+.blog-desc {
+  font-size: small;
+  word-wrap: break-word;
+  text-align: left;
+}
+.blog-header {
+  word-wrap: break-word;
+  text-align: left;
+}
+.blog-details {
+  padding: 0.5rem 0.5rem;
+  position: relative;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+.blog-pink {
+  background-color: #cf61bb;
+  padding-bottom: 1rem;
+  height: 100%;
+}
+.blog-blue {
+  background-color: #6dbfe8;
+  height: 100%;
+  padding-bottom: 1rem;
+}
+.blog-violet {
+  background-color: #933c9b;
+  padding-bottom: 1rem;
+  height: 100%;
+}
+.designing-blog {
+  height: 100%;
+}
+.gaming-blog {
+  height: 100%;
+}
+.resource-pill {
+  position: absolute;
+  font-size: x-small;
+  color: #cf61bb;
+  background-color: var(--white-color);
+  top: -0.5rem;
+  left: 0.6rem;
+  border-radius: 10rem;
+  padding: 0 0.5rem;
+}
+.lifestyle-pill {
+  position: absolute;
+  font-size: x-small;
+  color: #6dbfe8;
+  background-color: var(--white-color);
+  top: -0.5rem;
+  left: 0.6rem;
+  border-radius: 10rem;
+  padding: 0 0.5rem;
+}
+.gaming-pill {
+  position: absolute;
+  font-size: x-small;
+  color: #933c9b;
+  background-color: var(--white-color);
+  top: -0.5rem;
+  left: 0.6rem;
+  border-radius: 10rem;
+  padding: 0 0.5rem;
+}
+.design-pill {
+  position: absolute;
+  font-size: x-small;
+  color: var(--white-color);
+  background-color: var(--purple-color);
+  top: -0.5rem;
+  left: 0.6rem;
+  border-radius: 10rem;
+  padding: 0 0.5rem;
+}
+.food-pill {
+  position: absolute;
+  font-size: x-small;
+  color: var(--white-color);
+  background-color: #ef4444;
+  top: -0.5rem;
+  left: 0.6rem;
+  border-radius: 10rem;
+  padding: 0 0.5rem;
+}
+.inspiration-pill {
+  position: absolute;
+  font-size: x-small;
+  color: var(--white-color);
+  background-color: var(--light-blue-color);
+  top: -0.5rem;
+  left: 0.6rem;
+  border-radius: 10rem;
+  padding: 0 0.5rem;
+}
+.color-white {
+  color: var(--white-color);
+}
+.blog-border {
+  border: 1px solid #d0d0d0;
+  border-top: none;
+}
+.text-pd-bottom {
+  padding-bottom: 0.5rem;
+}

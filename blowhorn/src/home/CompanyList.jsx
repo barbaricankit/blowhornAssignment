@@ -1,11 +1,13 @@
-import disney_logo from './images/disney_logo.png'
-import Google_logo from './images/Google_logo.png'
-import HubSpot_logo from './images/HubSpot_logo.png'
-import Shopify_logo from './images/Shopify_logo.svg'
-import Slack_logo from './images/Slack_logo.png'
-import YouTube_logo from './images/YouTube_logo.png'
+import {
+  disney_logo,
+  Google_logo,
+  HubSpot_logo,
+  Shopify_logo,
+  Slack_logo,
+  YouTube_logo,
+} from '.'
+
 const CompanyList = () => {
-  console.log(window.location.href)
   return (
     <div className="companies">
       <img src={disney_logo} alt="Disney" className="disney_logo" />

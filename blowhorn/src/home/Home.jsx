@@ -1,4 +1,6 @@
 import CompanyList from './CompanyList'
+import Details1 from './Details1'
+import Details2 from './Details2'
 import './home.css'
 const Home = () => {
   return (
@@ -23,6 +25,10 @@ const Home = () => {
         TRUSTED BY TOP-LEADING COMPANIES
       </p>
       <CompanyList />
+      <div className="extra-details">
+        <Details1 />
+        <Details2 />
+      </div>
     </div>
   )
 }
