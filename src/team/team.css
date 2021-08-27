@@ -4,6 +4,7 @@
   background-color: #dae8ff;
   padding: 1.5rem;
   border-radius: 50%;
+  border-top-right-radius: 0;
 }
 .avatar-img {
   width: 100%;
