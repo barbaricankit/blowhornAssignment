@@ -10,7 +10,7 @@
 .nav-option{
     display: inline-block;
     margin:auto 0.7rem;
-    color:var(--gray-color);
+   
     font-size: medium;
 }
 
@@ -22,4 +22,7 @@
 }
 .text--purple{
     color:var(--purple-color)
+}
+.text-gray{
+    color:var(--gray-color);
 }
